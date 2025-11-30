@@ -1,9 +1,10 @@
-# Simple-Python-Project
-this repository created for python tutorial project.
+# Data Structures and Algorithms with Python projects
 
-Description of project :
+Here we will solve problems and exercises from the book Data Structures and Algorithms with Python by Kent D. Lee and Steve Hubbard.
 
+Description of projects :
+
+sission 1 
 - GUI - Draw Appiliction
   use tkinter for create a GUI window to draw with turtle.
-  this is a lesson 1 project of structur data and algoritmic with python.
   
